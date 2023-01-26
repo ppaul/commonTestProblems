@@ -1,0 +1,26 @@
+{
+  "name": "commontestproblems",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppaul/commonTestProblems.git"
+  },
+  "keywords": [
+    "common",
+    "problems"
+  ],
+  "author": "Paul Pacurar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ppaul/commonTestProblems/issues"
+  },
+  "homepage": "https://github.com/ppaul/commonTestProblems#readme",
+  "devDependencies": {
+    "jest": "^29.4.1"
+  }
+}
